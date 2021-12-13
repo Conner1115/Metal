@@ -20,7 +20,7 @@ export default function Home() {
           
             <div>
               <div className={styles.bar}></div>
-              <h2 className={styles.hd2}>Phillip Davis</h2>
+              <h2 className={styles.hd2}>All Metal Welding</h2>
               <p className={styles.pard} style={{maxWidth: 500}}>This is a short description of the work that we do.  For the moment it is filled with dummy text and will be updated later.</p>
               <Link href="mailto:quote@allmetalwelding.com" passHref>
                 <button className="button">Get a Quote</button>
@@ -33,7 +33,7 @@ export default function Home() {
     <Nav />
     <div className="sec-cont">
       <h2>The right man for the job</h2>
-      <p className="par">Mr. Phillip Davis can weld anything from fences to trailers to house frames.  If you need metalworking, he{"'"}s the right guy.</p>
+      <p className="par">Mr. Philip Davis can weld anything from fences to trailers to house frames.  If you need metalworking, he{"'"}s the right guy.</p>
       <p className="par">If he{"'"}s built you something in the past, be sure to drop him a good review at HomeAdvisor!</p>
       <a href="https://homeadvisor.com" target="_blank" rel="noreferrer">
         <button className="button center">Write a Review</button>
