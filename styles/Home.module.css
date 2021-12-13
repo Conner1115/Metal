@@ -20,7 +20,7 @@
   top: 0px;
   right: 0;
   clip-path: polygon(47.5% 50%, 55% 0, 100% 0, 100% 100%, 45% 100%, 52.5% 50%);
-  background-image: url(https://images.unsplash.com/photo-1615746363486-92cd8c5e0a90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fG1ldGFsfGVufDB8fDB8YmxhY2t8&auto=format&fit=crop&w=800&q=60);
+  background-image: url(/wrenches.jpeg);
   background-size: cover;
 }
 .half0{
@@ -30,7 +30,7 @@
   top: 0px;
   left: 0;
   clip-path: polygon(55% 0, 47.5% 50%, 52.5% 50%, 45% 100%, 0 100%, 0 0);
-  background-image: url(https://media.istockphoto.com/photos/abstract-diagonal-red-blue-sparks-background-party-new-year-picture-id912207430?b=1&k=20&m=912207430&s=170667a&w=0&h=IsYAyrJsTlTL2QdZ_P7yeyw34J8idSq9dXqI7KkO_oA=);
+  background-image: url(/spark.jpeg);
   background-size: cover;
   background-position-x: -45vw;
 }

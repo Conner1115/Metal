@@ -52,26 +52,26 @@ export default function Home() {
       <div className="xpath" style={{clipPath: "polygon(0 0, 0% 100%, 100% 0)", background:'var(--bg-dk2)'}}></div>
       <h1>Gallery</h1>
       <div className={styles.responsiveGrid}>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img0.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img1.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img2.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img3.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img4.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img5.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img7.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img8.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img9.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img10.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img11.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img12.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img13.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img14.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img16.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img17.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img18.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img19.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img6.JPG"/>
-        <img className={styles.childImg} alt="Gallery Image" src="/metal/img15.JPG"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img0.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img1.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img2.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img3.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img4.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img5.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img7.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img8.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img9.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img10.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img11.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img12.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img13.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img14.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img16.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img17.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img18.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img19.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img6.jpg"/>
+        <img className={styles.childImg} alt="Gallery Image" src="/metal/img15.jpg"/>
       </div>
     </div>
     </div>
