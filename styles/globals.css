@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,500;0,700;0,900;1,500;1,700;1,900&family=Raleway:wght@200;300;400&display=swap');
+:root{
+  --bg-dk0: rgb(15, 15, 15);
+  --bg-dk0: rgb(25, 25, 25);
+  --bg-dk0: rgb(35, 35, 35);
+  --bg-0: rgb(50,50,50);
+  --bg-1: rgb(65,65,65);
+  --bg-2: rgb(80,80,80);
+  --bg-3: rgb(95,95,95);
+  --bg-4: rgb(110,110,110);
+  --bg-5: rgb(125,125,125);
+  --bg-6: rgb(140,140,140);
+
+  --f-6: rgb(255, 100, 0);
+  --f-5: rgb(240, 85, 0);
+  --f-4: rgb(225, 70, 0);
+  --f-3: rgb(210, 65, 0);
+  --f-2: rgb(195, 50, 0);
+  --f-1: rgb(180, 35, 0);
+  --f-0: rgb(165, 20, 0);
+
+  --op-0: rgba(0,0,0,0);
+  --op-1: rgba(0,0,0,0.2);
+  --op-2: rgba(0,0,0,0.4);
+  --op-3: rgba(0,0,0,0.6);
+  --op-4: rgba(0,0,0,0.8);
+
+  --bk: rgb(0,0,0);
+  --wh: rgb(255,255,255);
+  
+  --t-0: rgb(150, 150, 150);
+  --t-1: rgb(175,175,175);
+  --t-2: rgb(200,200,200);
+  --t-3: rgb(225,225,225);
+
+  --font-title: 'Kanit', 'Arial Black', sans-serif;
+  --font-text: 'Raleway', 'Avenir Book', sans-serif;
+
+  --tthick-0: 500;
+  --tthick-1: 700;
+  --tthick-2: 900;
+
+  --tthin-0: 200;
+  --tthin-1: 300;
+  --tthin-2: 400;
+}
+
+* {
+  box-sizing: border-box;
+  outline: none;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: var(--font-text);
+  font-weight: var(--tthin-0);
+  color: var(--t-2);
+  background: var(--bg-0);
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-title);
+  font-weight: var(--tthick-1);
+  font-style: italic;
+  text-align: center;
+  color: var(--t-3);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 0;
+}
+h1{
+  font-size: 4em;
+}
+h2{
+  font-size: 3em;
+}
+h3{
+  font-size: 2em;
+}
+h4{
+  font-size: 1em;
+}
+
+a {
+  color: var(--f-4);
+  text-decoration: none;
+  transition: 0.25s;
+}
+
+a:hover{
+  cursor: pointer;
+  color: var(--f-3);
+}
+
+p{
+  font-size: 20px;
+  color: var(--t-2);
+  line-height: 30px;
+  font-weight: var(--tthin-2);
+}
+
+.button{
+  border: none;
+  padding: 15px;
+  background: linear-gradient(75deg,var(--f-6),var(--f-2));
+  color: var(--t-3);
+  font-size: 20px;
+  font-family: var(--font-title);
+  font-weight: var(--tthick-0);
+  max-width: 300px;
+  width: 80%;
+  border-radius: 5px;
+  margin: auto 10px;
+  transition: 0.25s;
+  
+}
+.button:hover{
+  filter: brightness(95%);
+  cursor: pointer;
+}
+.tleft{
+  text-align: left;
+}

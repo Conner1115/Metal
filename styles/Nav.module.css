@@ -1,0 +1,23 @@
+.nav{
+  background: var(--op-3);
+  padding: 25px;
+  max-width: 1100px;
+  width: calc(95vw);
+  height: 100px;
+  position: absolute;
+  top: 2.5vh;
+  left: 50%;
+  transform: translatex(-50%);
+  display: flex;
+}
+.flinks{
+  display: flex;
+  width: 100%;
+}
+.flinks > a{
+  font-size: 20px;
+  font-weight: var(--tthick-1);
+  margin: 10px 3rem;
+  font-family: var(--font-title);
+  color: var(--t-3);
+}
