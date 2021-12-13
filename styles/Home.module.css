@@ -32,7 +32,7 @@
   clip-path: polygon(55% 0, 47.5% 50%, 52.5% 50%, 45% 100%, 0 100%, 0 0);
   background-image: url(https://media.istockphoto.com/photos/abstract-diagonal-red-blue-sparks-background-party-new-year-picture-id912207430?b=1&k=20&m=912207430&s=170667a&w=0&h=IsYAyrJsTlTL2QdZ_P7yeyw34J8idSq9dXqI7KkO_oA=);
   background-size: cover;
-  background-position-x: -50vw;
+  background-position-x: -45vw;
 }
 .cover{
   background: var(--op-3);

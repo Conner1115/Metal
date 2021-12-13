@@ -29,9 +29,18 @@ export default function Home() {
         </div>
       </div>
     <Nav />
-    <div id="sec-cont">
+    <div className="sec-cont">
       <h2>The right man for the job</h2>
-      <p>Mr. Phillip Davis can weld anything from fences to trailers to house frames.  You{"'"}ll never find another guy like this anywhere.</p>
+      <p className="par">Mr. Phillip Davis can weld anything from fences to trailers to house frames.  If you need metalworking, he{"'"}s the right guy.</p>
+      <p className="par">If he{"'"}s built you something in the past, be sure to drop him a good review at HomeAdvisor!</p>
+      <a href="https://homeadvisor.com" target="_blank" rel="noreferrer">
+        <button className="button center">Write a Review</button>
+      </a>
+    </div>
+    <div style={{background:"var(--bg-dk2)"}}>
+    <div className="xpath" style={{clipPath: "polygon(0 0, 100% 100%, 100% 0);", background:'var(--bg-dk1)'}}></div>
+    <h2 style={{margin: "50 0"}}>Past Works</h2>
+    
     </div>
     </div>
   );
