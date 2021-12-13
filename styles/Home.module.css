@@ -94,3 +94,32 @@
     font-size: 16px;
   }
 }
+.responsiveGrid {
+  min-height: 100px;
+  max-width: 900px;
+  width: 95%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 10px;
+  justify-items: center;
+  justify-self: center;
+  justify-content: center;
+  position: relative;
+  left: 50%;
+  transform:translatex(-50%);
+}
+.childImg{
+  border-radius: 10px;
+  width: 200px;
+  margin: 10px 0;
+  transition: 0.25s;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+.childImg:hover{
+  cursor: pointer;
+}
+.childImg:active{
+  transform: scale(2);
+}

@@ -1,0 +1,27 @@
+<svg viewBox="0 0 300 300" width="300px" height="300px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="150" y1="0" x2="150" y2="300" id="gradient-0" gradientTransform="matrix(0.740595, 0.671951, -0.796709, 0.878097, 145.369262, -75.674378)">
+      <stop offset="0" style="stop-color: rgb(255, 77, 0);"></stop>
+      <stop offset="1" style="stop-color: rgb(255, 196, 0);"></stop>
+    </linearGradient>
+  </defs>
+  <path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: url(#gradient-0); stroke-width: 10px;" d="M 4.2 295 L 5 100 L 70 100 C 70 100 70 295 70 295 C 70 295 80 295 80 295 L 80 5 L 230 40 L 230 295 C 230 295 240 295 240 295 C 240 295 240 100 240 100 L 295 100 L 296.9 295"></path>
+  <rect x="101.232" y="76.048" width="25" height="25" style="stroke: rgb(255, 115, 0); stroke-width: 10px; fill: none; stroke-linejoin: round;"></rect>
+  <rect x="143.446" y="76.176" width="25" height="25" style="stroke: rgb(255, 115, 0); stroke-width: 10px; fill: none; stroke-linejoin: round;"></rect>
+  <rect x="101.232" y="76.048" width="25" height="25" style="stroke: rgb(255, 115, 0); stroke-width: 10px; fill: none; stroke-linejoin: round;" transform="matrix(1, 0, 0, 1, 86.451802, -0.500602)"></rect>
+  <rect x="100.915" y="121.77" width="25" height="25" style="stroke: rgb(255, 115, 0); stroke-width: 10px; fill: none; stroke-linejoin: round;"></rect>
+  <rect x="143.369" y="122.023" width="25" height="25" style="stroke: rgb(255, 115, 0); stroke-width: 10px; fill: none; stroke-linejoin: round;"></rect>
+  <rect x="186.305" y="123.679" width="25" height="25" style="stroke: rgb(255, 115, 0); stroke-width: 10px; fill: none; stroke-linejoin: round;"></rect>
+  <rect x="100.355" y="167.842" width="25" height="25" style="stroke: rgb(255, 115, 0); stroke-width: 10px; fill: none; stroke-linejoin: round;"></rect>
+  <rect x="142.393" y="166.976" width="25" height="25" style="stroke: rgb(255, 115, 0); stroke-width: 10px; fill: none; stroke-linejoin: round;"></rect>
+  <rect x="186.268" y="168.349" width="25" height="25" style="stroke: rgb(255, 115, 0); stroke-width: 10px; fill: none; stroke-linejoin: round;"></rect>
+  <rect x="98.507" y="214.178" width="25" height="25" style="stroke: rgb(255, 115, 0); stroke-width: 10px; fill: none; stroke-linejoin: round;"></rect>
+  <rect x="142.171" y="213.069" width="25" height="25" style="stroke: rgb(255, 115, 0); stroke-width: 10px; fill: none; stroke-linejoin: round;"></rect>
+  <rect x="184.557" y="214.5" width="25" height="25" style="stroke: rgb(255, 115, 0); stroke-width: 10px; fill: none; stroke-linejoin: round;"></rect>
+  <rect x="101.232" y="76.048" width="25" height="25" style="stroke: rgb(255, 115, 0); stroke-width: 10px; fill: none; stroke-linejoin: round;" transform="matrix(1, 0, 0, 1, -79.810387, 44.495333)"></rect>
+  <rect x="21.879" y="162.349" width="25" height="25" style="stroke: rgb(255, 115, 0); stroke-width: 10px; fill: none; stroke-linejoin: round;"></rect>
+  <rect x="22.128" y="207.558" width="25" height="25" style="stroke: rgb(255, 115, 0); stroke-width: 10px; fill: none; stroke-linejoin: round;"></rect>
+  <rect x="101.232" y="76.048" width="25" height="25" style="stroke: rgb(255, 115, 0); stroke-width: 10px; fill: none; stroke-linejoin: round;" transform="matrix(1, 0, 0, 1, 153.590414, 37.938293)"></rect>
+  <rect x="253.997" y="159.629" width="25" height="25" style="stroke: rgb(255, 115, 0); stroke-width: 10px; fill: none; stroke-linejoin: round;"></rect>
+  <rect x="253.697" y="203.612" width="25" height="25" style="stroke: rgb(255, 115, 0); stroke-width: 10px; fill: none; stroke-linejoin: round;"></rect>
+</svg>

@@ -1,0 +1,9 @@
+<svg viewBox="0 0 300 300" width="300px" height="300px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="150" y1="0" x2="150" y2="300" id="gradient-0" gradientTransform="matrix(0.740595, 0.671951, -0.796709, 0.878097, 145.369262, -75.674378)">
+      <stop offset="0" style="stop-color: rgb(255, 77, 0);"></stop>
+      <stop offset="1" style="stop-color: rgb(255, 196, 0);"></stop>
+    </linearGradient>
+  </defs>
+  <path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: url(#gradient-0); stroke-width: 10px;" d="M 5 50 L 150 5 L 295 50 L 295 65 L 5 65 L 5 80 L 25 80 L 25 250 L 40.75 250.659 L 41.023 80 L 87.213 80.406 L 90.564 247.917 L 109.275 249.594 L 107.959 81.968 L 151.455 82.646 L 157.189 250.332 L 173.624 249.568 L 170.908 83.286 C 170.9 83.238 220 83.172 220 83.172 L 223.002 248.718 L 238.875 249.269 L 238.856 83.812 L 280.624 84.014 C 280.624 82.96 281.383 262.88 281.383 262.931 L 8.639 263.524 L 8.575 292.054 L 291.661 292.205 L 292.01 281.052"></path>
+</svg>
