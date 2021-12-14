@@ -10,7 +10,7 @@ export default function About() {
         <div className={styles.cntr}>
           <div className={styles.cnt}>
             <h1 style={{ margin: 0 }}>Careers</h1>
-            <h3>We&apos;re hiring!</h3>
+            <h3>We&apos;re hiring!!</h3>
           </div>
         </div>
       </div>
