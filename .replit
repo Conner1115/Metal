@@ -1,2 +1,0 @@
-run = 'npx nodemon -x "npm run start || npm run build"'
-entrypoint = 'pages/index.js'
