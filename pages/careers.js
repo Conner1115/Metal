@@ -14,7 +14,8 @@ export default function About() {
           </div>
         </div>
       </div>
-      <div style={{ paddingTop: 50 }}>
+      <div style={{ padding: "20vh 0" }}>
+      <h3>Looking for an opportunity?</h3>
       <p className="par">We are looking for anyone who is passionate about welding and metalworking.  Have a decent amount of skills in those fields?  Be sure to consider joining us!</p>
 
         <h3>What you&apos;ll do</h3>

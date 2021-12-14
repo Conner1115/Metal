@@ -119,7 +119,5 @@
 }
 .childImg:hover{
   cursor: pointer;
-}
-.childImg:active{
   transform: scale(2);
 }

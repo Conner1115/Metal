@@ -30,7 +30,7 @@ export default function Home() {
         </div>
       </div>
       <Nav />
-      <div className="sec-cont">
+      <div className="sec-cont" style={{paddingTop: "20vh"}}>
         <h2>The right man for the job</h2>
         <p className="par">Mr. Philip Davis can weld anything from fences to trailers to house frames.  If you need metalworking, he{"'"}s the right guy.</p>
         <p className="par">If he{"'"}s built you something in the past, be sure to drop him a good review at HomeAdvisor!</p>
@@ -72,7 +72,7 @@ export default function Home() {
           <img className={styles.childImg} alt="Gallery Image" src="/metal/img6.jpg" />
           <img className={styles.childImg} alt="Gallery Image" src="/metal/img15.jpg" />
         </div>
-        <div style={{paddingTop: 50}}>
+        <div style={{padding: "20vh 0"}}>
           <h2>Need a job done?</h2>
           <p style={{ textAlign: "center" }}>We{"'"}ll be happy to get right over and gauruntee satisfaction.</p>
           <a href={`mailto:allmetalwelding1@gmail.com?subject=Please give me a quote
