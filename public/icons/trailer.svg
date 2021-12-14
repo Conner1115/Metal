@@ -1,0 +1,10 @@
+<svg viewBox="0 0 300 300" width="300px" height="300px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="141.114" y1="25.087" x2="141.114" y2="187.948" id="gradient-0" gradientTransform="matrix(0.671579, 0.740933, -1.72517, 1.563685, 236.042238, -141.927429)">
+      <stop offset="0" style="stop-color: rgb(240, 195, 14);"></stop>
+      <stop offset="1" style="stop-color: rgb(255, 140, 0);"></stop>
+    </linearGradient>
+  </defs>
+  <path style="fill: none; stroke-width: 10px; stroke-linejoin: round; stroke-linecap: round; stroke: url(#gradient-0);" d="M 225.782 170.741 L 286.433 169.716 C 286.433 169.716 283.69 106.796 284.175 107.281 C 284.302 107.408 280.598 23.772 281.83 24.257 C 281.888 24.28 267.218 26.581 266.781 25.253 C 266.677 24.936 270.147 106.728 269.025 107.296 C 268.216 107.705 94.569 106.766 94.569 106.766 L 126.202 107.377 C 126.202 107.377 126.363 170.032 126.12 170.274 C 125.877 170.516 76.392 107.779 76.392 107.779 L 53.052 151.441 L 11.952 152.252 L 12.323 169.322 L 12.061 187.107 L 26.106 187.116 L 25.741 168.823 L 111.085 170.288"></path>
+  <ellipse style="fill: none; stroke-width: 10px; stroke-linejoin: round; stroke-linecap: round; stroke: rgb(253, 139, 0);" cx="178.706" cy="183.091" rx="33.418" ry="33.925"></ellipse>
+</svg>

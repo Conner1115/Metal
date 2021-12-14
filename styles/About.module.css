@@ -1,0 +1,28 @@
+.fxd {
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  width: 100%;
+  margin: 0;
+  position: relative;
+  top: 0;
+  left: 0;
+  display: block;
+}
+
+.cntr{
+  position: relative;
+  top: 50vh;
+  left: 50vw;
+  width: 95vw;
+  height: 95vh;
+  transform:translate(-50%, -50%);
+  background: var(--op-3);
+}
+
+.cnt{
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform:translate(-50%, -50%);
+}

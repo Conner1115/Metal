@@ -1,0 +1,37 @@
+.quote{
+  max-width: 700px;
+  position: relative;
+  transform: translatex(-50%);
+  margin: 100px 0;
+}
+.quote:nth-child(odd){
+  left: 45%;
+}
+.quote:nth-child(even){
+  left: 55%;
+  text-align: right;
+}
+.qbody{
+  font-size: 2em;
+  font-weight: var(--tthin-1);
+  line-height: 40px;
+  margin: 10px 0;
+}
+.author{
+  font-family: var(--font-title);
+  font-weight: var(--tthick-1);
+  font-size: 1.5em;
+}
+@media(max-width:1000px){
+  .quote{
+    max-width: 80%;
+  }
+}
+@media(max-width: 500px){
+  .qbody{
+    font-size: 1.5em;
+  }
+  .author{
+    font-size: 1.25em;
+  }
+}

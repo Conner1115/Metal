@@ -10,7 +10,7 @@ export default function Nav(){
       </div>
       <div className={styles.flinks}>
         <Link href="/about">Who we are</Link>
-        <Link href="/products">Services</Link>
+        <Link href="/products">Products</Link>
         <Link href="/testimonials">Testimonials</Link>
         <Link href="/careers">Careers</Link>
       </div>
