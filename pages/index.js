@@ -19,7 +19,7 @@ export default function Home() {
             <div>
               <div className={styles.bar}></div>
               <h2 className={styles.hd2}>All Metal Welding</h2>
-              <p className={styles.pard} style={{ maxWidth: 500 }}>This is a short description of the work that we do.  For the moment it is filled with dummy text and will be updated later.</p>
+              <p className={styles.pard} style={{ maxWidth: 500 }}>Phillip Davis is a freelance metalworker that specializes in building exterior stair railings, and more.  You&apos;ve got the right man for metalworking.</p>
               <a href={`mailto:allmetalwelding1@gmail.com?subject=Please give me a quote
           &body=What do you want me to build%3F%0A%0AWhere are you located%3F%0A%0AAny video/picture attachments or comments%3F`} target="_blank" rel="noreferrer">
                 <button className="button">Get a Quote</button>
