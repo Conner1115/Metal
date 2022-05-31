@@ -13,11 +13,12 @@ function MyApp({ Component, pageProps }) {
       <title>AllMetalWelding</title>
       <link rel="icon" href="/logo.svg" type="image/svg"/>
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <meta name="description" content="Phillip Davis is a freelance metalworker that specializes in building exterior stair railings, and more.  You've got the right man for metalworking."/>
 
       <meta property="og:type" content="website" />
       <meta property="og:title" content="All Metal Welding"/>
       <meta property="og:description"
-        content="Philip Davis is the man for welding.  He makes everything from fences to house frames.  Need a guy for metalworking?  You've got the right one."/>
+        content="Phillip Davis is a freelance metalworker that specializes in building exterior stair railings, and more.  You've got the right man for metalworking."/>
       <meta property="og:url" content="https://allmetalwelding.com"/>
       <meta property="og:image" content="/home.png"/>
       <meta property="og:image:type" content="image/png" />
