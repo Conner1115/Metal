@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "postbuild": "next-sitemap"
+    "postbuild": "NODE_OPTIONS='--openssl-legacy-provider' next-sitemap"
   },
   "dependencies": {
     "next": "12.0.1",
