@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://allmetalwelding.com
+
+# Sitemaps
+Sitemap: https://allmetalwelding.com/sitemap.xml
