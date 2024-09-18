@@ -48,7 +48,7 @@ Phil did a great job. Superior workmanship. Kept me informed all the way through
       </div>
       <div style={{ padding: "50px 0" }}>
         <h2>Your move.</h2>
-        <Link href="/contact">
+        <Link href="/contact" passHref>
           <button className="center button">Get a Quote</button>
         </Link>
       </div>

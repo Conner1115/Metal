@@ -36,7 +36,7 @@ export default function About() {
           ideas, and adding creative features into their work.
         </p>
 
-        <Link href="/contact">
+        <Link href="/contact" passHref>
           <button className="center button">Contact Us</button>
         </Link>
       </div>

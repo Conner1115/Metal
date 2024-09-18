@@ -71,7 +71,7 @@ export default function Prod() {
           title="Other Services"
           description="Need any odd metalworking jobs done?  I'll get 'em done for you."
         />
-        <Link href="/contact">
+        <Link href="/contact" passHref>
           <button className="center button">Get a Quote</button>
         </Link>
       </div>

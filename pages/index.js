@@ -197,7 +197,7 @@ export default function Home() {
           <p style={{ textAlign: "center" }}>
             We{"'"}ll be happy to get right over and gauruntee satisfaction.
           </p>
-          <Link href="/contact">
+          <Link href="/contact" passHref>
             <button className="center button">Contact Us</button>
           </Link>
         </div>
