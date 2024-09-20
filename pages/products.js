@@ -49,14 +49,9 @@ export default function Prod() {
           title="Custom Requests"
           description="Need something that's not on the list?  Be sure to get in touch."
         />
-        <a
-          href={`mailto:allmetalwelding1@gmail.com?subject=Please give me a quote
-          &body=What do you want me to build%3F%0A%0AWhere are you located%3F%0A%0AAny video/picture attachments or comments%3F`}
-          target="_blank"
-          rel="noreferrer"
-        >
+        <Link href="/contact">
           <button className="center button">Get a Quote</button>
-        </a>
+        </Link>
       </div>
 
       <Nav />

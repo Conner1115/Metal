@@ -26,14 +26,9 @@ export default function Home() {
                 have the capability to weld aluminum and stainless steel on-site
                 and in-shop.
               </p>
-              <a
-                href={`mailto:allmetalwelding1@gmail.com?subject=Please give me a quote
-          &body=What do you want me to build%3F%0A%0AWhere are you located%3F%0A%0AAny video/picture attachments or comments%3F`}
-                target="_blank"
-                rel="noreferrer"
-              >
+              <Link href="/contact">
                 <button className="button">Get a Quote</button>
-              </a>
+              </Link>
             </div>
           </div>
         </div>
@@ -45,7 +40,16 @@ export default function Home() {
           We can weld anything from aluminum boats to trailers to house frames.
         </p>
         <p className="par">
-          If we&apos;ve built you something in the past, be sure to drop us a good review at HomeAdvisor and <a target="_blank" href="https://www.facebook.com/profile.php?id=100068470882250" rel="noreferrer">Facebook</a>!
+          If we&apos;ve built you something in the past, be sure to drop us a
+          good review at HomeAdvisor and{" "}
+          <a
+            target="_blank"
+            href="https://www.facebook.com/profile.php?id=100068470882250"
+            rel="noreferrer"
+          >
+            Facebook
+          </a>
+          !
         </p>
         <a href="https://homeadvisor.com" target="_blank" rel="noreferrer">
           <button className="button center">Write a Review</button>
