@@ -194,7 +194,7 @@ export default function Home() {
         <div style={{ padding: "20vh 0" }}>
           <h2>Need a job done?</h2>
           <p style={{ textAlign: "center" }}>
-            We{"'"}ll be happy to get right over and gauruntee satisfaction.
+            We{"'"}ll be happy to get right over and guarantee satisfaction.
           </p>
           <Link href="/contact" passHref>
             <button className="center button">Contact Us</button>
