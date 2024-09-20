@@ -2,7 +2,7 @@
 import styles from "../styles/Home.module.css";
 import Nav from "../components/nav";
 import Mark from "../components/project";
-import Link from 'next/link'
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -21,8 +21,10 @@ export default function Home() {
               <div className={styles.bar}></div>
               <h2 className={styles.hd2}>All Metal Welding</h2>
               <p className={styles.pard} style={{ maxWidth: 500 }}>
-                We are a small family business that specializes in building
-                exterior stair railings, fences, and more.
+                We are a fully insured metal working business that specializes
+                in building exterior handrails, welding repairs, and more. We
+                have the capability to weld aluminum and stainless steel on-site
+                and in-shop.
               </p>
               <a
                 href={`mailto:allmetalwelding1@gmail.com?subject=Please give me a quote
@@ -38,14 +40,12 @@ export default function Home() {
       </div>
       <Nav />
       <div className="sec-cont" style={{ paddingTop: "20vh" }}>
-        <h2>The right man for the job</h2>
+        <h2>The right company for the job</h2>
         <p className="par">
-          Mr. Philip Davis can weld anything from fences to trailers to house
-          frames. If you need metalworking, he{"'"}s the right guy.
+          We can weld anything from aluminum boats to trailers to house frames.
         </p>
         <p className="par">
-          If he{"'"}s built you something in the past, be sure to drop him a
-          good review at HomeAdvisor!
+          If we&apos;ve built you something in the past, be sure to drop us a good review at HomeAdvisor and <a target="_blank" href="https://www.facebook.com/profile.php?id=100068470882250" rel="noreferrer">Facebook</a>!
         </p>
         <a href="https://homeadvisor.com" target="_blank" rel="noreferrer">
           <button className="button center">Write a Review</button>
@@ -78,12 +78,7 @@ export default function Home() {
         <Mark
           icon="/icons/res.svg"
           title="Retail/Restaurant"
-          description="Cooking isn't usually a talent of metalworkers, but I can say I'll be able to cook up any metal object for you."
-        />
-        <Mark
-          icon="/icons/tractor.svg"
-          title="Farms & Ranches"
-          description="Fences or barns anyone?  I can do it all including making extra-sharp fences that'll keep your cows in your property (not recomended)"
+          description="Cooking isn't usually a talent of metalworkers, but we can say we'll be able to cook up any metal object for you."
         />
       </div>
       <div>
